@@ -4,10 +4,10 @@ package evgenyt.strategy_demo;
  * Trip has a destination and a trip method, using strategy
  */
 
-public class Trip {
-    String destination;
+class Trip {
+    private String destination;
 
-    public Trip(String destination) {
+    Trip(String destination) {
         this.destination = destination;
     }
 

@@ -3,7 +3,7 @@ package evgenyt.strategy_demo;
 import java.util.Scanner;
 
 /**
- * Strategy patter demo
+ * Strategy pattern demo
  * Mar 2019 Evgeny Tyurin
  */
 
